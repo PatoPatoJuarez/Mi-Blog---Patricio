@@ -1,0 +1,52 @@
+* {
+    margin: 0%;
+    border: 0;
+    padding: 0%;
+}
+
+html {
+    height: 100%;
+}
+
+/* Header */
+
+.imglogodev {
+    width: 8rem;
+    height: 8rem;
+    border-radius: 50%;
+}
+
+.imgcardperfil {
+    height: 100%;
+}
+
+.iframeig, .iframesp {
+    width: 100%;
+}
+
+.framedeig, .iframesp {
+    height: 26rem;
+}
+
+footer {
+    padding: 0.20rem;
+}
+
+body, main {
+    background-image: url(../Img/playabackgroundfoto.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+header {
+    background-color: #24242c;
+    padding: 0.25rem;
+}
+.centrar{
+    text-align: center;
+    align-items: center;
+}
+
+.card-body {
+    background-color: antiquewhite;
+}
